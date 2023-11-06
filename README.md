@@ -20,7 +20,7 @@ Put downloaded file to:
       <br>**Windows**: C:/Users/_/TheoTown/plugins
       <br>**Linux**: ~/TheoTown
       <br>**MacOS**: /user/TheoTown
-      <br>**iOS**: [in-game method](https://github.com/slashpotato/slashhub/blob/b4cf2a4a4ea37d1b4717c1dd87ac7b3d4ea8d922/package.json)
+      <br>**iOS**: [in-game method](https://github.com/slashpotato/slashhub#in-game-method)
 ##### In-Game Method:
 1. Open game.
 2. Menu > File manager. Note, that you currently shouln't be in any city. To leave city press earth button.
