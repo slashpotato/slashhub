@@ -1,5 +1,4 @@
 // ./settings
-import Image from 'next/image';
 import Setting from '@/components/react/Setting.jsx';
 
 export default function Settings() {

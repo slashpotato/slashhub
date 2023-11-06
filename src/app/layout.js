@@ -1,6 +1,8 @@
+/* eslint-disable @next/next/google-font-display */
+/* eslint-disable @next/next/no-page-custom-font */
 import { Inter, Geologica, Fira_Code } from 'next/font/google';
 import './globals.css';
-import { React, ReactDOM, ReactElement } from 'react';
+import { React } from 'react';
 
 const inter = Inter({ subsets: ['latin', 'cyrillic'] })
 const geologica = Geologica({ subsets: ['latin', 'cyrillic'] })
