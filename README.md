@@ -1,5 +1,5 @@
 # slashhub
-This project uses [Next.js](https://nextjs.org/) with [tailwindcss](https://tailwindcss.com). See other dependencies and other info in [`package.json`](https://github.com/slashpotato/slashhub/blob/09542bb7d08f19446ebbb7cc4d968f12233cb442/package.json).
+This project uses [Next.js](https://nextjs.org/) with [tailwindcss](https://tailwindcss.com). See other dependencies and other info in [`package.json`](https://github.com/slashpotato/slashhub/blob/b4cf2a4a4ea37d1b4717c1dd87ac7b3d4ea8d922/package.json).
 
 **Note**: blue text is clickable and is links
 
