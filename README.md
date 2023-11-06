@@ -22,6 +22,7 @@ Put downloaded file to:
       <br>**MacOS**: /user/TheoTown
       <br>**iOS**: [in-game method](https://github.com/slashpotato/slashhub#in-game-method)
 ##### In-Game Method:
+**Note**: you can do that from version 1.10.95
 1. Open game.
 2. Menu > File manager. Note, that you currently shouln't be in any city. To leave city press earth button.
 3. Import here > File(s)
