@@ -1,8 +1,9 @@
 // ./theotown/plugins
 
-export default function TheoTown() {
+export default function PluginPage() {
+	
 	return (
-		<main>
+		<main className="pt-12">
 			
 		</main>
 	)

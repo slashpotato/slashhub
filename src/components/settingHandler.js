@@ -1,4 +1,5 @@
-export function saveSetting(setting) {
+"use client";
+export function SaveSetting(setting) {
 	if (typeof window !== "undefined" && window.localStorage) {
 		console.log({ setting });
 		if (localStorage[setting] != undefined) {

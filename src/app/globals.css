@@ -21,7 +21,7 @@
 
 ::selection {
 	background-color: black;
-	color: azure;
+	color: fff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -32,7 +32,7 @@
 	}
 
 	::selection {
-		background-color: azure;
+		background-color: fff;
 		color: black;
 	}
 
@@ -54,6 +54,30 @@ samp,
 pre,
 .code {
 	font-family: 'Fira Code', monospace;
+}
+
+.code-hilit {
+	@apply p-1 bg-zinc-800 rounded
+}
+
+.super-btn {
+	@apply bg-zinc-900 rounded-md py-2 px-3 m-2 border-solid border-[1px] border-zinc-700
+}
+
+.btn-base {
+	@apply rounded-md py-2 px-3 m-2
+}
+
+.btn-hover-anim {
+	transition: all ease-in-out 150ms;
+}
+.btn-hover-anim:hover {
+	transform: scale(1.05);
+	@apply shadow-2xl shadow-zinc-800
+}
+.btn-hover-anim.btn-base:hover {
+	transform: translateY(-2px) scale(1.05);
+	@apply shadow-2xl shadow-zinc-800
 }
 
 .icon,
